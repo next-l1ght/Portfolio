@@ -1,0 +1,16 @@
+:root {
+  --mainColor: #18191a;
+  --SecondaryColor: #000000;
+
+  --borderColor: #164d56;
+
+  --mainText: #fff;
+  --seconderyText: #eeeeee;
+
+  --firstFont: "Roboto", sans-serif;
+
+  --themeDotBorder: #ffffff;
+
+  --previewBG: (25, 39, 52, 0.8);
+  --previewShadow: #18191a;
+}
